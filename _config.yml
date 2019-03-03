@@ -79,3 +79,6 @@ theme: hexo-theme-autumn
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Favicon
+favicon: /img/favicon.png
